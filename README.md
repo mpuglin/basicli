@@ -12,6 +12,9 @@
     See the Apache License Version 2.0 for the specific language governing permissions and limitations there under.
 
 -->
+# Repository Stats
+![Alt](https://repobeats.axiom.co/api/embed/7cdd90e92547dd23dae6b09257e017dbc897de2c.svg "Repobeats analytics image")
+
 # BasiCLI
 
 Support for CLI oriented applications.
